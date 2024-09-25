@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['canned_drinks']
+
+roboflow:
+  workspace: learning-0jmtp
+  project: 8-canned_-drinks-iwiiq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/learning-0jmtp/8-canned_-drinks-iwiiq/dataset/1
